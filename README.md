@@ -12,7 +12,7 @@ Setup
 
   * Attach the shield to the Arduino. Then attach the red wire of the buzzer to pin 13 and the black to the ground.
   * Add the Shield to your Hub.
-  * Change the Device Type to: `On/Off Shield`
+  * Change the Device Type of the Shield to: `On/Off Shield`
 
 Arduio Code
 -----------

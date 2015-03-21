@@ -4,7 +4,7 @@ SmartThings Door Chime
 Things needed:
 
   * Arduino Uno
-  * SmarThings Shield
+  * Arduino ThingsShield
   * Peizo Buzzer
 
 Setup
@@ -31,3 +31,8 @@ SmartApp
 Now open a door/window and it should beep.
 
 
+Credits
+-------
+
+The Arduino code is based on the SmartThings examples here:
+http://docs.smartthings.com/en/latest/arduino/index.html#arduino-examples

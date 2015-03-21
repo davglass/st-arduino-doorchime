@@ -5,7 +5,7 @@ Things needed:
 
   * Arduino Uno
   * Arduino ThingsShield
-  * Peizo Buzzer
+  * Piezo Buzzer
 
 Setup
 -----
